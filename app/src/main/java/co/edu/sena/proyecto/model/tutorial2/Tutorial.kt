@@ -4,11 +4,11 @@ object Tutorial {
     // Sample conversation data
     val conversationSample = listOf(
         Message(
-            "Colleague",
+            "samuel",
             "Test...Test...Test..."
         ),
         Message(
-            "Colleague",
+            "samuel",
             "List of Android versions:\n" +
                     "Android KitKat (API 19)\n" +
                     "Android Lollipop (API 21)\n" +
@@ -21,51 +21,51 @@ object Tutorial {
                     "Android 12 (API 31)\n"
         ),
         Message(
-            "Colleague",
+            "samuel",
             "I think Kotlin is my favorite programming language.\n" +
                     "It's so much fun!"
         ),
         Message(
-            "Colleague",
+            "samuel",
             "Searching for alternatives to XML layouts..."
         ),
         Message(
-            "Colleague",
+            "samuel",
             "Hey, take a look at Jetpack Compose, it's great!\n" +
                     "It's the Android's modern toolkit for building native UI." +
                     "It simplifies and accelerates UI development on Android." +
                     "Less code, powerful tools, and intuitive Kotlin APIs :)"
         ),
         Message(
-            "Colleague",
+            "samuel",
             "It's available from API 21+ :)"
         ),
         Message(
-            "Colleague",
+            "samuel",
             "Writing Kotlin for UI seems so natural, Compose where have you been all my life?"
         ),
         Message(
-            "Colleague",
+            "samuel",
             "Android Studio next version's name is Arctic Fox"
         ),
         Message(
-            "Colleague",
+            "samuel",
             "Android Studio Arctic Fox tooling for Compose is top notch ^_^"
         ),
         Message(
-            "Colleague",
+            "samuel",
             "I didn't know you can now run the emulator directly from Android Studio"
         ),
         Message(
-            "Colleague",
+            "samuel",
             "Compose Previews are great to check quickly how a composable layout looks like"
         ),
         Message(
-            "Colleague",
+            "samuel",
             "Previews are also interactive after enabling the experimental setting"
         ),
         Message(
-            "Colleague",
+            "samuel",
             "Have you tried writing build.gradle with KTS?"
         ),
     )
